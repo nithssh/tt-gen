@@ -1,4 +1,6 @@
 from data_models import *
+from scoring import total_weighted_score
+
 
 # GLOBAL STATE -----------------------------------------------------------------
 # These inits need to be moved out of the solver file
@@ -56,3 +58,5 @@ class_ins: dict[str, ClassInput] = {
 
 # Solver -----------------------------------------------------------------------
 
+def conflicts(tt: ClassInput):
+    pass

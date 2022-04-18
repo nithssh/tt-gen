@@ -1,7 +1,7 @@
 import statistics
 from data_models import *
 
-# MOST OF THESE FUNCTIONS ARE NOT TESTED LOL
+# MOST OF THESE FUNCTIONS ARE NOT TESTED
 # TODO: TEST AFTER INITIAL GENERATION IS IMPLEMENTED
 def total_weighted_score():
     pass
